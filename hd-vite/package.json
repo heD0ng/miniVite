@@ -1,0 +1,21 @@
+{
+  "name": "hd-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hd-vite": "./bin/www.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es-module-lexer": "^0.10.5",
+    "koa": "^2.13.4",
+    "koa-static": "^5.0.0",
+    "magic-string": "^0.26.2"
+  }
+}
